@@ -5,7 +5,10 @@
 $ sudo apt install apache2
 
 sudo fuser -vki /var/lib/dpkg/lock
+
 Crear un pagina web.
+
 nano ejem.html
+
 mv html 
 
