@@ -12,5 +12,9 @@ nano ejem.html
 
 mv html 
 
+Creamos dos archivos que se llaman example.com y test.com
 
+Subimos los ficheros de configuracion al servidor, con el comando a2ensite
+
+Configuramos el fichero nano hosts
 
